@@ -5,4 +5,4 @@
 
 Demo: https://www.youtube.com/watch?v=zsclcrpxZlk
 
-![Alt text](/screenshots/funblox1.jpg?raw=true "Optional Title")
+![Alt text](/screenshots/funblox1.png?raw=true "Optional Title")
